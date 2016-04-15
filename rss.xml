@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YoSoCool]]></title>
+        <description><![CDATA[YoSoCool]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 19:17:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Here at YO SO COOL we bring YOU the ultimate healthy and fun experience. We offer you 12 flavors and 6 swirl combinations of all-natural, non fat, low fat, non dairy or no sugar added frozen yogurt. Along with the freshest of fruit cut daily and so many exciting toppings for you to add to your yogurt to make it even more spectacular and delicious!</p>]]></description>
+            <link>undefinedc8d3d399-a7eb-44cc-9039-10c30464b1ed/index.html</link>
+            <guid isPermaLink="false">c8d3d399-a7eb-44cc-9039-10c30464b1ed</guid>
+            <pubDate>Fri, 15 Apr 2016 19:17:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
